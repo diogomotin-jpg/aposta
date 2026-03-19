@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Aposta Rápida</title>
+  <style>
+    body { 
+      margin:0; 
+      font-family:Arial; 
+      background:#000; 
+      color:#fff; 
+      text-align:center; 
+    }
+    header { 
+      background:#b22222; 
+      padding:12px; 
+    }
+    .jogo { 
+      background:#1a1a1a; 
+      margin:15px; 
+      padding:12px; 
+      border-radius:6px; 
+    }
+    button { 
+      background:#006400; 
+      color:white; 
+      border:none; 
+      padding:10px 18px; 
+      margin:6px; 
+      border-radius:5px; 
+      cursor:pointer; 
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h2>Aposta Rápida</h2>
+  </header>
+
+  <div class="jogo">
+    <h3>vasco × corinthians</h3>
+    <button>1.75</button>
+    <button>3.40</button>
+    <button>4.50</button>
+  </div>
+
+  <div class="jogo">
+    <h3>corinthians × Santos</h3>
+    <button>Mais 2.5</button>
+    <button>Menos 2.5</button>
+  </div>
+
+  <div class="jogo">
+    <h3>palmeiras × coritiba</h3>
+    <button>0.86</button>
+    <button>2.00</button>
+    <button>6.01</button>
+  </div>
+
+  <div class="jogo">
+    <h3>psg × flamengo</h3>
+    <button>Mais 0.8</button>
+    <button>Menos 3.5</button>
+  </div>
+
+  <div class="jogo">
+    <h3>brasil × coreia</h3>
+    <button>3.87</button>
+    <button>5.35</button>
+    <button>2.84</button>
+  </div>
+
+  <div class="jogo">
+    <h3>vasco × corinthians</h3>
+    <button>1.75</button>
+    <button>3.40</button>
+    <button>4.50</button>
+  </div>
+
+  <div class="jogo">
+    <h3>cruzeiro × Santos</h3>
+    <button>Mais 2.5</button>
+    <button>Menos 2.5</button>
+  </div>
+
+  <div class="jogo">
+    <h3>corinthians × atletico pr</h3>
+    <button>0.86</button>
+    <button>2.00</button>
+    <button>6.01</button>
+  </div>
+
+  <div class="jogo">
+    <h3>coxa × atletico mg</h3>
+    <button>Mais 0.8</button>
+    <button>Menos 3.5</button>
+  </div>
+
+  <div class="jogo">
+    <h3>argentina × coreia</h3>
+    <button>3.87</button>
+    <button>5.35</button>
+    <button>2.84</button>
+  </div>
+
+  <div class="jogo">
+    <h3>vasco × corinthians</h3>
+    <button>1.75</button>
+    <button>3.40</button>
+    <button>4.50</button>
+  </div>
+
+  <div class="jogo">
+    <h3>corinthians × Santos</h3>
+    <button>Mais 2.5</button>
+    <button>Menos 2.5</button>
+  </div>
+
+  <div class="jogo">
+    <h3>palmeiras × coritiba</h3>
+    <button>0.86</button>
+    <button>2.00</button>
+    <button>6.01</button>
+  </div>
+
+  <div class="jogo">
+    <h3>psg × flamengo</h3>
+    <button>Mais 0.8</button>
+    <button>Menos 3.5</button>
+  </div>
+
+  <div class="jogo">
+    <h3>brasil × coreia</h3>
+    <button>3.87</button>
+    <button>5.35</button>
+    <button>2.84</button>
+  </div>
+
+  <div class="jogo">
+    <h3>vitoria × fluminense</h3>
+    <button>1.75</button>
+    <button>3.40</button>
+    <button>4.50</button>
+  </div>
+
+  <div class="jogo">
+    <h3>mirassol × inter</h3>
+    <button>Mais 2.5</button>
+    <button>Menos 2.5</button>
+  </div>
+
+  <div class="jogo">
+    <h3>remo × bragantino</h3>
+    <button>0.86</button>
+    <button>2.00</button>
+    <button>6.01</button>
+  </div>
+
+  <div class="jogo">
+    <h3>bahia × sao paulo</h3>
+    <button>Mais 0.8</button>
+    <button>Menos 3.5</button>
+  </div>
+
+  <div class="jogo">
+    <h3>argentina × frança</h3>
+    <button>3.87</button>
+    <button>5.35</button>
+    <button>2.84</button>
+  </div>
+  <p style="color:#888;font-size:0.8em;margin:30px 10px;">
+    18+ | Jogue com responsabilidade
+  </p>
+
+</body>
+</html>
