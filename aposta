@@ -30,6 +30,20 @@
       border-radius:5px; 
       cursor:pointer; 
     }
+    /* Estilo da imagem de futebol adicionada */
+    .football-header {
+      margin: 20px auto;
+      max-width: 90%;
+      border: 4px solid #b22222;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(178,34,34,0.6);
+    }
+    .football-header img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
   </style>
 </head>
 <body>
@@ -37,6 +51,11 @@
   <header>
     <h2>Aposta Rápida</h2>
   </header>
+
+  <!-- Imagem de futebol adicionada aqui (logo abaixo do título) -->
+  <div class="football-header">
+    <img src="https://imo.com.br/wp-content/uploads/2017/08/futebol.jpg">
+  </div>
 
   <div class="jogo">
     <h3>vasco × corinthians</h3>
